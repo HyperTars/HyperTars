@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hypertars&show_icons=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hypertars&langs_count=8&layout=compact)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hypertars&show_icons=true&count_private=true)](https://github.com/HyperTars?tab=repositories)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hypertars&langs_count=8&layout=compact)](https://github.com/HyperTars?tab=repositories)
