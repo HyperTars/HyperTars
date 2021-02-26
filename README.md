@@ -1,4 +1,4 @@
-### Hi there 👋, this is [HyperTars](hypertars.com).
+### Hi there 👋, this is [HyperTars](https://hypertars.com).
 
 <!--
 **HyperTars/HyperTars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
